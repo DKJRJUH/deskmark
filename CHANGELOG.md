@@ -10,6 +10,10 @@ Changelog
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.2.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.2.0)
+
+1. feat: add support for jpeg/jpg/svg
+
 ## [v1.1.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.1.0)
 
 1. feat: add font settings.
